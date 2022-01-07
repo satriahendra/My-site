@@ -36,9 +36,7 @@ hr {
   color: blue;
 }
 
-p {
-font-family: 'Merriweather', serif;
-}
+
 /* Bagian class*/
 
 /*Top Container*/
@@ -122,6 +120,10 @@ font-family: 'Merriweather', serif;
   margin: 5px;
 }
 
+.message {
+width: 50%;
+}
+
 .footer-link:hover {
   color: #015668;
 }
@@ -129,4 +131,5 @@ font-family: 'Merriweather', serif;
 .copyright {
   margin-bottom: 0px;
   color: white;
+  font-size: 0.75rem;
 }
