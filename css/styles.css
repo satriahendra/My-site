@@ -35,6 +35,10 @@ hr {
   top: 0;
   color: blue;
 }
+
+p {
+font-family: 'Merriweather', serif;
+}
 /* Bagian class*/
 
 /*Top Container*/
