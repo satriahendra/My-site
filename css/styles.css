@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #4e6a4a;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #2e6b64;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+
+hr {
+  margin: 100px auto;
+}
+
+.nav {
+  background-color: red;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+  color: blue;
+}
+/* Bagian class*/
+
+/*Top Container*/
+.top-container {
+  background-color: #f9f9f9;
+  position: relative;
+  padding-top: 100px;
+}
+
+/*Middle Container*/
+
+.middle-container {
+  background-color: white;
+  margin: 50px auto 100px auto;
+}
+
+.skills {
+  margin-top: 30px;
+}
+
+.profile-img {
+  height: 150px;
+}
+
+.skills-img1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-img2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+/*Bottom Container*/
+.bottom-container {
+  background-color: #4e6a4a;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.btn {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #015668;
+  text-transform: uppercase;
+  background: #ffffff;
+  padding: 20px;
+  border: 4px solid #015668;
+  border-radius: 6px;
+  display: inline-block;
+  transition: all 0.3s ease 0s;
+  font-size: 1.17em;
+  font-weight: bold;
+}
+
+.btn:hover {
+  color: #015668;
+  border-radius: 50px;
+  border-color: #015668;
+  transition: all 0.3s ease 0s;
+}
+
+.footer-link {
+  color: white;
+  margin: 5px;
+}
+
+.footer-link:hover {
+  color: #015668;
+}
+
+.copyright {
+  margin-bottom: 0px;
+  color: white;
+}
